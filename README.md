@@ -12,7 +12,7 @@ Enjoy automation :D
 **youtube-dl**
 
 You will also need youtube-dl so download it from [here](http://ytdl-org.github.io/youtube-dl/download.html)
-and add in ur path
+and add in ur path.
 
 
 
