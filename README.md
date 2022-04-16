@@ -36,4 +36,3 @@ sub_reddit = ""
 
 # Extras:
 * Delete the /config/ folder evertime you restart the script.
-* 
