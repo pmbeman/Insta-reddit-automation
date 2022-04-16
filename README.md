@@ -34,6 +34,7 @@ user_agent = ""
 sub_reddit = ""
 ```
 **Tags**
+
 Open tags.txt and type whatever tags u want to display in the caption.
 # Extras:
 * Delete the /config/ folder evertime you restart the script.
