@@ -2,7 +2,7 @@
 A simple script to download posts in the best available format using youtube-dl from a sub reddit and then upload that on instgram.
 
     python main.py
-Enjoy automaion :D
+Enjoy automation :D
 # Installation
 **1. Clone the repo**
 
