@@ -2,7 +2,6 @@ import praw
 import subprocess
 from instabot import Bot
 import time
-import os 
 
 # Needed variables
 ig_username = ""
@@ -62,7 +61,7 @@ while True:
             bot.upload_video(video="posts/" + media_name, caption=caption)
         else:
             continue
-        os.remove("posts/" + media_name )
+        
         time.sleep()
     a = a+1
     
