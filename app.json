@@ -1,0 +1,11 @@
+{
+    "name": "Insta-reddit-automation",
+    "description": "A simple script to download posts in the best available format using youtube-dl from a sub reddit and then upload that on instgram.",
+    "repository": "https://github.com/pmbeman/Insta-reddit-automation",
+    "stack": "heroku-20",
+    "buildpacks": [
+        {   
+            "url": "heroku/python"  
+        }
+      ]
+}
