@@ -43,3 +43,4 @@ Open tags.txt and type whatever tags u want to display in the caption.
 # Extras:
 * Delete the /config/ folder evertime you restart the script.
 
+- Click  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/pmbeman/Insta-reddit-automation)
