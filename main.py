@@ -4,12 +4,12 @@ from instabot import Bot
 import time
 
 # Needed variables
-ig_username = ""
-ig_password = ""
-reddit_client_id = ""
-reddit_client_secret = ""
-user_agent = ""  
-sub_reddit = ""
+ig_username = "reelsdb"
+ig_password = "SA3cUQxTEvJT\:!3"
+reddit_client_id = "oFmNI8XMwnPUMTTA4eZqVg"
+reddit_client_secret = "0mUNwTfKqrPvb2U__FrLSgH0izmPvA"
+user_agent = "android:com.example.myredditapp:v1.2.3 (by u/pmbeman)"  
+sub_reddit = "TikTokCringe"
 
 # Instabot instance
 bot =  Bot()
